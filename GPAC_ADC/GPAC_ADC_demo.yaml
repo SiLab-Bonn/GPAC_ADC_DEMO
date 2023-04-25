@@ -6,7 +6,7 @@ transfer_layer:
   - name     : USB
     type     : SiUsb
     init     :
-        bit_file : ../firmware/ise/GPAC_ADC_demo.bit
+        bit_file : ../firmware/ise/gpac_adc_demo.bit
         avoid_download : True
 
 
